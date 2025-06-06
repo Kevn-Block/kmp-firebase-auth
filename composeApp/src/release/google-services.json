@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412192596698",
+    "project_id": "authtutorialmedium-prod",
+    "storage_bucket": "authtutorialmedium-prod.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412192596698:android:fac1915188de54a77c7be3",
+        "android_client_info": {
+          "package_name": "com.medium.authtutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyuJ5i0u_jDPG4ve0fUCeClUR76xO6PhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

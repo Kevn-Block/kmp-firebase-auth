@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="display_name">Display Name</string>
+    <string name="change_display_name">Change Display Name</string>
+    <string name="loading">Loading...</string>
+    <string name="enter">Enter</string>
+    <string name="create_account">Create Account</string>
+    <string name="back">Back</string>
+    <string name="user_not_logged_in">User not logged in. When you log in, this page will change!</string>
+    <string name="no_account_signed_up">No Account? Sign Up!</string>
+    <string name="have_an_account">Have an account? Log In!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+    <string name="you_must_enter_display_name">You must enter a display name</string>
+</resources>
